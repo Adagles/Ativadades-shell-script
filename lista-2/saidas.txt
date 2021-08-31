@@ -1,0 +1,2 @@
+exemplo: ls lista
+exemplo: ls -l atividades
